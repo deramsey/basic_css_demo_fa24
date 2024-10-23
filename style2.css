@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 70dvw;
+    margin: 2vw auto;
+    background-color: white;
+    padding: 2vw;
+}
+
+header {
+    background-color: white;
+    padding: 2vw;
+    text-align: center;
+}
+
+h1, h2, p{
+    color: black !important;
+    margin-bottom: 1vw;
+}
+
+body{
+    background-color: #320099;
+}
+
+footer {
+    background-color: #525252;
+    text-align: center;
+    min-height: 10vw;
+}
+
+footer > a{
+    color: white;
+    margin-top: 2vw;
+    display: block;
+}
